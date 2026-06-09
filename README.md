@@ -15,6 +15,7 @@
 - [03_VSCode Git 与 Stash 使用指南](./02_开发环境与工具/03_VSCode%20Git%20与%20Stash%20使用指南.md)
 - [04_Windows uv 与 PyTorch 兼容性问题](./02_开发环境与工具/04_Windows%20uv%20与%20PyTorch%20兼容性问题.md)
 - [05_VSCode 远程 SSH 连接服务器极简教程](./02_开发环境与工具/05_VSCode%20远程%20SSH%20连接服务器极简教程.md)
+- [06_macOS 本地配置 MySQL 与 Redis](./02_开发环境与工具/06_macOS%20本地配置%20MySQL%20与%20Redis.md)
 
 ## 03_系统与效率工具
 
